@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "25cb28e36d523aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "47755a07b617997d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2410503ebaf24a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java/快捷键.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3facd379ee67aec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java/Maven导入依赖报错.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b539d1bdd79d563d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java/Java命名规范.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e0c89c6e2521983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java/快捷键.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2f75a3738782a3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb04dde5733dfcd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483e18973657e4bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d99d21a892ddd191",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afe6d5d20338a9fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92c875247821bd1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7e38d4a23eac65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c157d1884c9a4e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Java/快捷键.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d62455736ece985",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Java/快捷键.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "388165438283a1a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8a173165a5fc6e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Java/快捷键.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7e0c89c6e2521983",
+  "lastOpenFiles": [
+    "README.md",
+    "Java/Java/插件记录.md",
+    "Java/Java/Java命名规范.md",
+    "Java/Java/Maven导入依赖报错.md",
+    "Java/Java/快捷键.md",
+    "Java/Java/assets/Pasted image 20240411215829.png",
+    "快捷键.md",
+    "Java/Java/assets",
+    "2024-04-11.md",
+    "Java/Java/assets/image-20240411215404056.png",
+    "Java/Java/assets/Pasted image 20240411215248.png",
+    "Java/Java/~$新建 Microsoft Excel 工作表.xlsx",
+    "Java/Java/~建 Microsoft Excel 工作表.tmp",
+    "Java/Java/新建 Microsoft Excel 工作表.xlsx",
+    "未命名.canvas",
+    "Java/Java/新建 Microsoft Word 文档.docx",
+    "Java/Java",
+    "Java",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
