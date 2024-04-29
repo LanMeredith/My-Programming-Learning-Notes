@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "773c989d1223a6e4",
+        "id": "6cd770635d15f4ff",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc0a2a2502602ef",
+            "id": "fd021919089c9cf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KMsoftPLM/系统介绍/安全管理/三员授权.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6be478ff3d206fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-04/24-04-17-周三.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#测试标签",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "c123fd61fc53df5e",
+            "id": "c8d0a973b482d43d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-04/24-04-17-周三.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-04/24-04-17-周三.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-04/24-04-17-周三.md"
+                "file": "README.md"
               }
             }
           }
@@ -154,59 +135,59 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "daily-notes:打开/创建今天的日记": false
+      "daily-notes:打开/创建今天的日记": false,
+      "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "e6be478ff3d206fd",
+  "active": "6f49e0c6995adceb",
   "lastOpenFiles": [
-    "KMsoftPLM/系统介绍/用户/超级管理员.md",
-    "KMsoftPLM/系统介绍/安全管理/三员授权.md",
-    "KMsoftPLM/系统介绍/安全管理/维护员授权.md",
-    "KMsoftPLM/操作步骤/账号启用.md",
-    "KMsoftPLM/数据库/用户表.md",
-    "KMsoftPLM/操作步骤/开目Cloud启动.md",
-    "KMsoftPLM/系统介绍/安全管理/assets/image-20240418155009112.png",
-    "KMsoftPLM/系统介绍/安全管理/assets/image-20240418153834304.png",
-    "KMsoftPLM/系统介绍/安全管理/assets/image-20240418153203742.png",
-    "KMsoftPLM/系统介绍/安全管理/assets/image-20240418153127932.png",
-    "KMsoftPLM/系统介绍/安全管理/assets",
-    "KMsoftPLM/系统介绍/安全管理",
-    "SanPinPLM/PDM/10.AutoCAD图纸模板.md",
-    "Obsidian/Obsidian附件管理插件Attachment Management.md",
-    "Obsidian/Obsidian自动更新相对路径插件.md",
-    "keyboard shortcuts/typora快捷键.md",
-    "keyboard shortcuts/1.md",
-    "Java/Java/插件记录.md",
-    "Java/Java/Java命名规范.md",
-    "KMsoftPLM/数据库/ceshi.md",
-    "KMsoftPLM/系统介绍/用户/assets",
-    "KMsoftPLM/系统介绍/用户",
-    "Daily/2024-04/24-04-17-周三.md",
-    "KMsoftPLM/assets/image-20240418090909326.png",
-    "KMsoftPLM/assets/image-20240418093059599.png",
-    "KMsoftPLM/数据库/assets/image-20240418112811637.png",
-    "KMsoftPLM/数据库/assets/image-20240418105717807.png",
-    "KMsoftPLM/数据库/测试1.md",
-    "KMsoftPLM/系统介绍/assets",
-    "Obsidian/assets/image-20240418113609862.png",
-    "测试/测试1.md",
-    "测试/assets",
-    "测试/assets/IMG-20240418113440174.png",
-    "测试1/assets",
-    "测试1",
-    "测试",
-    "KMsoftPLM/数据库/assets",
-    "Obsidian/Obsidian多库统一配置.md",
-    "测试2/测试2.md",
-    "SanPinPLM/EDM/20.服务端安装、端口设置.md",
-    "README.md",
+    "Daily/2024-04/24-04-27-周六.md",
     "keyboard shortcuts/Obsidian快捷键.md",
+    "keyboard shortcuts/typora快捷键.md",
     "keyboard shortcuts/IDEA快捷键.md",
-    "Java/Java/Maven导入依赖报错.md",
-    "Daily/2024-04/24-04-15-周一.md",
-    "AutoCAD/4.草图设置.md",
-    "未命名.canvas"
+    "KMsoftPLM/系统介绍/系统管理/组织管理.md",
+    "KMsoftPLM/系统介绍/系统管理/职务与职务簇定义.md",
+    "KMsoftPLM/系统介绍/系统管理/用户组定义.md",
+    "KMsoftPLM/系统介绍/系统管理/角色定义.md",
+    "KMsoftPLM/系统介绍/系统定制/资源管理器定义.md",
+    "KMsoftPLM/系统介绍/系统定制/系统配置.md",
+    "KMsoftPLM/系统介绍/我的桌面/我的任务.md",
+    "KMsoftPLM/系统介绍/数据导入/零部件与BOM导入.md",
+    "KMsoftPLM/系统介绍/系统定制/assets/image-20240426155940710.png",
+    "KMsoftPLM/系统介绍/系统定制/assets/image-20240426155621232.png",
+    "README.md",
+    "SanPinPLM/PDM/10.AutoCAD图纸模板.md",
+    "SanPinPLM/PDM/11.Solidworks图纸模板.md",
+    "SanPinPLM/PDM/20.图纸与物料属性映射.md",
+    "SanPinPLM/PDM/30.物料分类设置.md",
+    "SanPinPLM/PDM/40.图号、物料编码设置.md",
+    "SanPinPLM/PDM/50.图纸文件名、图号、物料编码唯一性设置.md",
+    "SanPinPLM/PDM/60.零部件流程设置.md",
+    "SanPinPLM/PDM/70.报表模板设置.md",
+    "SanPinPLM/PDM/80.PLM在线菜单应用.md",
+    "SanPinPLM/PDM/90.标准物料库的创建.md",
+    "SanPinPLM/PDM/100.BOM的创建.md",
+    "SanPinPLM/PDM/110.编辑明细表.md",
+    "SanPinPLM/PDM/120.新物料的申请.md",
+    "SanPinPLM/PDM/Videos/2024年3月19日AutoCAD图纸模板.mp4",
+    "未命名.canvas",
+    "KMsoftPLM/系统介绍/系统定制/assets",
+    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502449.png",
+    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502417.png",
+    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502388.png",
+    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502281.png",
+    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502356.png",
+    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502325.png",
+    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502250.png",
+    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502182.png",
+    "KMsoftPLM/系统介绍/系统定制",
+    "KMsoftPLM/系统介绍/数据导入",
+    "KMsoftPLM/系统介绍/我的桌面/assets",
+    "KMsoftPLM/系统介绍/我的桌面",
+    "SanPinPLM/PDM/Videos/未命名",
+    "SanPinPLM/PDM/Videos",
+    "未命名 1.canvas",
+    "KMsoftPLM/系统介绍/系统管理/assets",
+    "KMsoftPLM/系统介绍/系统管理"
   ]
 }
