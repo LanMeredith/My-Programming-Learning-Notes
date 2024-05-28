@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6cd770635d15f4ff",
+        "id": "9836a0141de4c406",
         "type": "tabs",
         "children": [
           {
-            "id": "fd021919089c9cf4",
+            "id": "6ee2a772987c57a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "card-board-view",
               "state": {}
             }
           }
@@ -52,20 +52,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "c8d0a973b482d43d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b5d29be6d483643d",
@@ -76,30 +68,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a37b4dffa255241",
+            "id": "efb0d6b3df8c0b1f",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b07a29c5d01fa5b7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "outline",
+              "state": {}
             }
           },
           {
@@ -114,80 +87,96 @@
             }
           },
           {
-            "id": "efb0d6b3df8c0b1f",
+            "id": "94ba2a38fe48abd7",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "README.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "239ba8070daf3e10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "hidden-folder-obsidian:显示文件夹": false
+      "hidden-folder-obsidian:显示文件夹": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "6f49e0c6995adceb",
+  "active": "6ee2a772987c57a3",
   "lastOpenFiles": [
+    "Obsidian/Obsidian介绍.md",
+    "Obsidian/相关操作/Markdown语言.md",
+    "Daily/2024-05/24-05-08-周三.md",
+    "Daily/2024-05/24-05-27-周一.md",
+    "Daily/2024-05/24-05-16-周四.md",
+    "Daily/2024-05/24-05-26-周日.md",
+    "未命名.md",
+    "Daily/2024-05/24-05-12-周日.md",
+    "Daily/2024-05/24-05-11-周六.md",
+    "Daily/2024-04/24-04-30-周二.md",
+    "Daily/2024-04/24-04-29-周一.md",
+    "Daily/2024-04/24-04-17-周三.md",
+    "Daily/2024-04/24-04-18-周四.md",
+    "Daily/2024-04/24-04-19-周五.md",
+    "Daily/2024-04/24-04-21-周日.md",
+    "Daily/2024-04/24-04-20-周六.md",
+    "Daily/2024-04/24-04-23-周二.md",
+    "Daily/2024-04/24-04-22-周一.md",
+    "Daily/2024-04/24-04-24-周三.md",
+    "Daily/2024-04/24-04-25-周四.md",
+    "Daily/2024-04/24-04-26-周五.md",
     "Daily/2024-04/24-04-27-周六.md",
-    "keyboard shortcuts/Obsidian快捷键.md",
-    "keyboard shortcuts/typora快捷键.md",
-    "keyboard shortcuts/IDEA快捷键.md",
-    "KMsoftPLM/系统介绍/系统管理/组织管理.md",
-    "KMsoftPLM/系统介绍/系统管理/职务与职务簇定义.md",
-    "KMsoftPLM/系统介绍/系统管理/用户组定义.md",
-    "KMsoftPLM/系统介绍/系统管理/角色定义.md",
-    "KMsoftPLM/系统介绍/系统定制/资源管理器定义.md",
-    "KMsoftPLM/系统介绍/系统定制/系统配置.md",
-    "KMsoftPLM/系统介绍/我的桌面/我的任务.md",
-    "KMsoftPLM/系统介绍/数据导入/零部件与BOM导入.md",
-    "KMsoftPLM/系统介绍/系统定制/assets/image-20240426155940710.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/image-20240426155621232.png",
-    "README.md",
-    "SanPinPLM/PDM/10.AutoCAD图纸模板.md",
-    "SanPinPLM/PDM/11.Solidworks图纸模板.md",
-    "SanPinPLM/PDM/20.图纸与物料属性映射.md",
-    "SanPinPLM/PDM/30.物料分类设置.md",
-    "SanPinPLM/PDM/40.图号、物料编码设置.md",
-    "SanPinPLM/PDM/50.图纸文件名、图号、物料编码唯一性设置.md",
-    "SanPinPLM/PDM/60.零部件流程设置.md",
-    "SanPinPLM/PDM/70.报表模板设置.md",
-    "SanPinPLM/PDM/80.PLM在线菜单应用.md",
-    "SanPinPLM/PDM/90.标准物料库的创建.md",
-    "SanPinPLM/PDM/100.BOM的创建.md",
-    "SanPinPLM/PDM/110.编辑明细表.md",
-    "SanPinPLM/PDM/120.新物料的申请.md",
-    "SanPinPLM/PDM/Videos/2024年3月19日AutoCAD图纸模板.mp4",
+    "Daily/2024-05/24-05-21-周二.md",
+    "Daily/2024-05/24-05-15-周三.md",
+    "Daily/2024-05/24-05-14-周二.md",
+    "Daily/2024-05/24-05-13-周一.md",
+    "Project/爱得信&日虹/Files/~$信初步调研大纲.doc",
+    "Project/爱得信&日虹/Files/~$爱得信项目主计划.xlsx",
+    "Markdown",
+    "Obsidian/相关操作",
+    "AutoCAD/Files",
+    "Obsidian/assets/image-20240509095138634.png",
+    "Obsidian/assets/image-20240509094801503.png",
+    "Obsidian/assets/image-20240509094625917.png",
+    "keyboard shortcuts",
+    "Project/爱得信&日虹/Files/爱得信PLM项目启动会.pptx",
+    "Project/爱得信&日虹/Files/~$爱得信PLM项目启动会最新版.pptx",
+    "Project/爱得信&日虹/Files/ppt9DE8.tmp",
+    "Project/爱得信&日虹/Files/ppt98C7.tmp",
+    "Project/爱得信&日虹/Files/爱得信组织架构图.png",
+    "KMsoftPLM/系统介绍/系统定制/assets/image-20240507162918570.png",
+    "Project/爱得信&日虹/Files/爱得信logo.png",
+    "Project/爱得信&日虹/Files/日虹logo.png",
+    "Project/爱得信&日虹/Files/IMG-20240506131637163.png",
+    "Project/爱得信&日虹/Files/IMG-20240506125508823.png",
+    "Project/爱得信&日虹/Files/IMG-20240506131644293.png",
     "未命名.canvas",
-    "KMsoftPLM/系统介绍/系统定制/assets",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502449.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502417.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502388.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502281.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502356.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502325.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502250.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/IMG-20240426150502182.png",
-    "KMsoftPLM/系统介绍/系统定制",
-    "KMsoftPLM/系统介绍/数据导入",
-    "KMsoftPLM/系统介绍/我的桌面/assets",
-    "KMsoftPLM/系统介绍/我的桌面",
-    "SanPinPLM/PDM/Videos/未命名",
-    "SanPinPLM/PDM/Videos",
-    "未命名 1.canvas",
-    "KMsoftPLM/系统介绍/系统管理/assets",
-    "KMsoftPLM/系统介绍/系统管理"
+    "未命名 1.canvas"
   ]
 }
