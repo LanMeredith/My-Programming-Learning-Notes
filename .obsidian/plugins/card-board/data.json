@@ -8,10 +8,27 @@
             "tag": "dated",
             "data": {
               "collapsed": false,
-              "name": "今明任务",
+              "name": "超期任务",
               "range": {
-                "tag": "before",
-                "data": 2
+                "tag": "between",
+                "data": {
+                  "from": -10,
+                  "to": -1
+                }
+              }
+            }
+          },
+          {
+            "tag": "dated",
+            "data": {
+              "collapsed": false,
+              "name": "今日任务",
+              "range": {
+                "tag": "between",
+                "data": {
+                  "from": 0,
+                  "to": 0
+                }
               }
             }
           },
@@ -23,8 +40,8 @@
               "range": {
                 "tag": "between",
                 "data": {
-                  "from": 2,
-                  "to": 3
+                  "from": 1,
+                  "to": 2
                 }
               }
             }
@@ -36,7 +53,7 @@
               "name": "未来任务",
               "range": {
                 "tag": "after",
-                "data": 3
+                "data": 2
               }
             }
           },
@@ -44,7 +61,7 @@
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 3,
+              "index": 4,
               "limit": 10,
               "name": "已完成任务"
             }
@@ -58,7 +75,7 @@
         ],
         "filterPolarity": "Allow",
         "filterScope": "Both",
-        "name": "Task",
+        "name": "Tasks",
         "showColumnTags": true,
         "showFilteredTags": true
       }

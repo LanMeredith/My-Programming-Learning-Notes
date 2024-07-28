@@ -17,39 +17,13 @@
       "key": "R"
     }
   ],
-  "obsidian-file-link:add-file-link": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "["
-    }
-  ],
-  "editor:toggle-numbered-list": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "]"
-    }
-  ],
-  "obsidian-tasks-plugin:edit-task": [
+  "card-board:open-card-board-plugin-0": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
-      "key": "T"
+      "key": "K"
     }
   ],
   "daily-notes": [
@@ -61,87 +35,24 @@
       "key": "D"
     }
   ],
-  "workspace:goto-tab-1": [
+  "workspace:undo-close-pane": [],
+  "editor:toggle-checklist-status": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "1"
+      "key": "T"
     }
   ],
-  "workspace:goto-tab-2": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "2"
-    }
-  ],
-  "workspace:goto-tab-3": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "3"
-    }
-  ],
-  "workspace:goto-tab-4": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "4"
-    }
-  ],
-  "workspace:goto-tab-5": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "5"
-    }
-  ],
-  "workspace:goto-tab-6": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "6"
-    }
-  ],
-  "workspace:goto-tab-7": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "7"
-    }
-  ],
-  "workspace:goto-tab-8": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "8"
-    }
-  ],
-  "workspace:goto-last-tab": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "9"
-    }
-  ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
   "editor:set-heading-1": [
     {
       "modifiers": [
@@ -190,50 +101,31 @@
       "key": "6"
     }
   ],
-  "card-board:open-card-board-plugin-0": [
+  "better-export-pdf:export-current-file-to-pdf": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
-      "key": "K"
+      "key": "P"
     }
   ],
-  "editor:toggle-code": [
+  "editor:toggle-bullet-list": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "K"
+      "key": "]"
     }
   ],
-  "editor:swap-line-up": [
+  "editor:toggle-numbered-list": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "workspace:undo-close-pane": [],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
+      "key": "["
     }
   ]
 }

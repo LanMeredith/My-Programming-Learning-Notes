@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "path:KMsoftPLM  ",
+  "search": "path:SanPinPLM  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.241454389948342,
+  "scale": 0.6316046762907802,
   "close": true
 }

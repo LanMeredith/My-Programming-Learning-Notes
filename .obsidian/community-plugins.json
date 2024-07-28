@@ -1,6 +1,9 @@
 [
   "hidden-folder-obsidian",
-  "consistent-attachments-and-links",
   "obsidian-tasks-plugin",
-  "card-board"
+  "card-board",
+  "nuke-orphans",
+  "consistent-attachments-and-links",
+  "update-relative-links",
+  "better-export-pdf"
 ]

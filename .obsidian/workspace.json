@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9836a0141de4c406",
+        "id": "23dc987a633bb175",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee2a772987c57a3",
+            "id": "b7823ca269084677",
             "type": "leaf",
             "state": {
-              "type": "card-board-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/相关操作/Obsidian多库统一配置.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "6836211637bf77d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -72,17 +84,8 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "07e15f68d6e50fc7",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "Obsidian/相关操作/Obsidian多库统一配置.md"
               }
             }
           },
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/相关操作/Obsidian多库统一配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian/相关操作/Obsidian多库统一配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +126,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:打开命令面板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -128,54 +134,54 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "6ee2a772987c57a3",
+  "active": "b7823ca269084677",
   "lastOpenFiles": [
-    "Obsidian/Obsidian介绍.md",
     "Obsidian/相关操作/Markdown语言.md",
-    "Daily/2024-05/24-05-08-周三.md",
-    "Daily/2024-05/24-05-27-周一.md",
-    "Daily/2024-05/24-05-16-周四.md",
-    "Daily/2024-05/24-05-26-周日.md",
-    "未命名.md",
-    "Daily/2024-05/24-05-12-周日.md",
-    "Daily/2024-05/24-05-11-周六.md",
-    "Daily/2024-04/24-04-30-周二.md",
-    "Daily/2024-04/24-04-29-周一.md",
-    "Daily/2024-04/24-04-17-周三.md",
-    "Daily/2024-04/24-04-18-周四.md",
-    "Daily/2024-04/24-04-19-周五.md",
-    "Daily/2024-04/24-04-21-周日.md",
-    "Daily/2024-04/24-04-20-周六.md",
-    "Daily/2024-04/24-04-23-周二.md",
-    "Daily/2024-04/24-04-22-周一.md",
-    "Daily/2024-04/24-04-24-周三.md",
-    "Daily/2024-04/24-04-25-周四.md",
-    "Daily/2024-04/24-04-26-周五.md",
-    "Daily/2024-04/24-04-27-周六.md",
-    "Daily/2024-05/24-05-21-周二.md",
-    "Daily/2024-05/24-05-15-周三.md",
-    "Daily/2024-05/24-05-14-周二.md",
-    "Daily/2024-05/24-05-13-周一.md",
-    "Project/爱得信&日虹/Files/~$信初步调研大纲.doc",
-    "Project/爱得信&日虹/Files/~$爱得信项目主计划.xlsx",
-    "Markdown",
-    "Obsidian/相关操作",
-    "AutoCAD/Files",
-    "Obsidian/assets/image-20240509095138634.png",
-    "Obsidian/assets/image-20240509094801503.png",
-    "Obsidian/assets/image-20240509094625917.png",
-    "keyboard shortcuts",
-    "Project/爱得信&日虹/Files/爱得信PLM项目启动会.pptx",
-    "Project/爱得信&日虹/Files/~$爱得信PLM项目启动会最新版.pptx",
-    "Project/爱得信&日虹/Files/ppt9DE8.tmp",
-    "Project/爱得信&日虹/Files/ppt98C7.tmp",
-    "Project/爱得信&日虹/Files/爱得信组织架构图.png",
-    "KMsoftPLM/系统介绍/系统定制/assets/image-20240507162918570.png",
-    "Project/爱得信&日虹/Files/爱得信logo.png",
-    "Project/爱得信&日虹/Files/日虹logo.png",
-    "Project/爱得信&日虹/Files/IMG-20240506131637163.png",
-    "Project/爱得信&日虹/Files/IMG-20240506125508823.png",
-    "Project/爱得信&日虹/Files/IMG-20240506131644293.png",
+    "Obsidian/相关操作/新建笔记.md",
+    "Obsidian/相关操作/链接.md",
+    "Obsidian/Obsidian介绍.md",
+    "Excel/常用函数.md",
+    "剪映/音视频同步.md",
+    "SanPinPLM/相关操作/PDM/50.图号、物料编码唯一性设置.md",
+    "SanPinPLM/相关操作/PDM/32.删除已有物料分类.md",
+    "SanPinPLM/相关操作/PDM/30.物料常规属性设置.md",
+    "SanPinPLM/相关操作/PDM/25.物料分类设置.md",
+    "SanPinPLM/相关操作/PDM/13.CAXA接口安装、属性映射.md",
+    "SanPinPLM/相关操作/PDM/11.中望CAD接口安装.md",
+    "SanPinPLM/相关操作/PDM/10.AutoCAD接口安装.md",
+    "Daily/2024-07/24-07-28-周日.md",
+    "SanPinPLM/相关操作/PDM/Files/Documents/~$批量bom导入.xlsx",
+    "宇精/相关信息记录.md",
+    "Daily/2024-07/24-07-26-周五.md",
+    "宇精/Files/文档模板/A4PDF图纸模板.pdf",
+    "宇精/Files/文档模板/A3PDF图纸模板.pdf",
+    "宇精/Files/文档模板/E151696 螺丝 毛坯 REV.00.pdf",
+    "宇精/Files/文档模板/13-0495 REV.C 毛坯.pdf",
+    "宇精/Files/物料/2483C000",
+    "宇精/Files/物料/~$物料编码、BOM断层、工艺汇总.xlsx",
+    "宇精/Files/物料/宇精-物料-对象分类导入.xlsx",
+    "宇精/Files/物料/~$宇精-物料-毛坯、原材料、产品对象分类导入.xlsx",
+    "宇精/Files/物料/~$宇精-物料-客供、模具对象分类导入.xlsx",
+    "SanPinPLM/相关操作/EDM/40.用户设置.md",
+    "SanPinPLM/相关操作/EDM/assets/image-20240725231106322.png",
+    "SanPinPLM/相关操作/EDM/assets/Pasted image 20240725230620.png",
+    "SanPinPLM/相关操作/EDM/70.编码器设置.md",
+    "SanPinPLM/相关操作/EDM/assets/image-20240725230348528.png",
+    "SanPinPLM/相关操作/EDM/assets/image-20240725225337820.png",
+    "SanPinPLM/相关操作/EDM/assets/image-20240725225015154.png",
+    "SanPinPLM/相关操作/EDM/assets/image-20240725224612658.png",
+    "SanPinPLM/相关操作/EDM/assets/image-20240725224207211.png",
+    "SanPinPLM/相关操作/EDM/assets/image-20240725223901146.png",
+    "SanPinPLM/相关操作/EDM/assets/image-20240725221430867.png",
+    "SanPinPLM/相关操作/EDM/90.流程模板制作.md",
+    "SanPinPLM/相关操作/EDM/assets/image-20240725215746284.png",
+    "SanPinPLM/相关操作/EDM/50.Excel文档模板制作.md",
+    "SanPinPLM/相关操作/EDM/80.文档分类设置.md",
+    "SanPinPLM/相关操作/EDM/44.岗位设置.md",
+    "SanPinPLM/相关操作/EDM/42.角色设置.md",
+    "SanPinPLM/相关操作/EDM/32.列表中隔行显示颜色.md",
+    "SanPinPLM/相关操作/EDM/30.文档命名唯一性设置.md",
+    "SanPinPLM/相关操作/EDM/22.并发用户管理.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
