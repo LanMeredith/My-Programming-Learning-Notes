@@ -1,22 +1,4 @@
 {
-  "open-with-default-app:open": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "app:open-vault": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
   "card-board:open-card-board-plugin-0": [
     {
       "modifiers": [
@@ -26,33 +8,15 @@
       "key": "K"
     }
   ],
-  "daily-notes": [
+  "open-with-default-app:open": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
-      "key": "D"
+      "key": "L"
     }
   ],
-  "workspace:undo-close-pane": [],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
-  "workspace:goto-tab-1": [],
-  "workspace:goto-tab-2": [],
-  "workspace:goto-tab-3": [],
-  "workspace:goto-tab-4": [],
-  "workspace:goto-tab-5": [],
-  "workspace:goto-tab-6": [],
-  "workspace:goto-tab-7": [],
-  "workspace:goto-tab-8": [],
   "editor:set-heading-1": [
     {
       "modifiers": [
@@ -101,13 +65,131 @@
       "key": "6"
     }
   ],
+  "workspace:goto-tab-1": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "workspace:goto-tab-2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "workspace:goto-tab-3": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "workspace:goto-tab-4": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "workspace:goto-tab-5": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "5"
+    }
+  ],
+  "workspace:goto-tab-6": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "workspace:goto-tab-7": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "7"
+    }
+  ],
+  "workspace:goto-tab-8": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "8"
+    }
+  ],
+  "workspace:goto-last-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "9"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "editor:rename-heading": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
   "better-export-pdf:export-current-file-to-pdf": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
     }
   ],
   "editor:toggle-bullet-list": [
@@ -119,13 +201,22 @@
       "key": "]"
     }
   ],
-  "editor:toggle-numbered-list": [
+  "editor:toggle-checklist-status": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "["
+      "key": "T"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
     }
   ]
 }

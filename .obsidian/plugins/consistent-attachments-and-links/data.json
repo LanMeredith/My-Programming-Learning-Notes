@@ -13,10 +13,6 @@
   "ignoreFiles": [
     "consistency\\-report\\.md"
   ],
-  "ignoreFilesRegex": [
-    {}
-  ],
   "attachmentsSubfolder": "./assets",
-  "consistencyReportFile": "consistency-report.md",
-  "useBuiltInObsidianLinkCaching": false
+  "consistencyReportFile": "consistency-report.md"
 }

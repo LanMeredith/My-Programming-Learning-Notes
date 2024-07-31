@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "23dc987a633bb175",
+        "id": "55b5c899c536e47d",
         "type": "tabs",
         "children": [
           {
-            "id": "b7823ca269084677",
+            "id": "8f282c46658dc202",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/相关操作/Obsidian多库统一配置.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "card-board-view",
+              "state": {}
             }
           }
         ]
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian/相关操作/Obsidian多库统一配置.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/相关操作/Obsidian多库统一配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/相关操作/Obsidian多库统一配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,6 +118,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -134,8 +127,28 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b7823ca269084677",
+  "active": "6f49e0c6995adceb",
   "lastOpenFiles": [
+    "SanPinPLM/简略教程/BOM清单转换.md",
+    "SanPinPLM/简略教程/assets/image-20240731142449950.png",
+    "SanPinPLM/简略教程/assets/image-20240731141114790-17224062769661.png",
+    "SanPinPLM/简略教程/assets/image-20240731141114790.png",
+    "Daily/2024-07/24-07-31-周三.md",
+    "Daily/2024-07/24-07-29-周一.md",
+    "未命名.canvas",
+    "Word/assets/image-20240505150522120.png",
+    "Obsidian/插件/Obsidian自动更新相对路径插件Update Relative Links.md",
+    "Obsidian/插件/Obsidian隐藏文件或文件夹插件Hidden Folder.md",
+    "Obsidian/插件/Obsidian任务管理插件Tasks.md",
+    "Obsidian/插件/Obsidian看板任务管理插件CardBoard.md",
+    "Obsidian/插件/Obsidian孤立文件管理插件Nuke Orphans.md",
+    "Obsidian/插件/Obsidian附件管理插件Consistent Attachments and Links.md",
+    "Obsidian/插件/Obsidian附件管理插件Attachment Management（不推荐）.md",
+    "Obsidian/相关操作/Obsidian多库统一配置.md",
+    "keyboard shortcuts/typora快捷键.md",
+    "keyboard shortcuts/Obsidian快捷键.md",
+    "keyboard shortcuts/IDEA快捷键.md",
+    "keyboard shortcuts",
     "Obsidian/相关操作/Markdown语言.md",
     "Obsidian/相关操作/新建笔记.md",
     "Obsidian/相关操作/链接.md",
@@ -147,12 +160,7 @@
     "SanPinPLM/相关操作/PDM/30.物料常规属性设置.md",
     "SanPinPLM/相关操作/PDM/25.物料分类设置.md",
     "SanPinPLM/相关操作/PDM/13.CAXA接口安装、属性映射.md",
-    "SanPinPLM/相关操作/PDM/11.中望CAD接口安装.md",
-    "SanPinPLM/相关操作/PDM/10.AutoCAD接口安装.md",
-    "Daily/2024-07/24-07-28-周日.md",
     "SanPinPLM/相关操作/PDM/Files/Documents/~$批量bom导入.xlsx",
-    "宇精/相关信息记录.md",
-    "Daily/2024-07/24-07-26-周五.md",
     "宇精/Files/文档模板/A4PDF图纸模板.pdf",
     "宇精/Files/文档模板/A3PDF图纸模板.pdf",
     "宇精/Files/文档模板/E151696 螺丝 毛坯 REV.00.pdf",
@@ -161,28 +169,12 @@
     "宇精/Files/物料/~$物料编码、BOM断层、工艺汇总.xlsx",
     "宇精/Files/物料/宇精-物料-对象分类导入.xlsx",
     "宇精/Files/物料/~$宇精-物料-毛坯、原材料、产品对象分类导入.xlsx",
-    "宇精/Files/物料/~$宇精-物料-客供、模具对象分类导入.xlsx",
-    "SanPinPLM/相关操作/EDM/40.用户设置.md",
     "SanPinPLM/相关操作/EDM/assets/image-20240725231106322.png",
     "SanPinPLM/相关操作/EDM/assets/Pasted image 20240725230620.png",
-    "SanPinPLM/相关操作/EDM/70.编码器设置.md",
     "SanPinPLM/相关操作/EDM/assets/image-20240725230348528.png",
     "SanPinPLM/相关操作/EDM/assets/image-20240725225337820.png",
     "SanPinPLM/相关操作/EDM/assets/image-20240725225015154.png",
     "SanPinPLM/相关操作/EDM/assets/image-20240725224612658.png",
-    "SanPinPLM/相关操作/EDM/assets/image-20240725224207211.png",
-    "SanPinPLM/相关操作/EDM/assets/image-20240725223901146.png",
-    "SanPinPLM/相关操作/EDM/assets/image-20240725221430867.png",
-    "SanPinPLM/相关操作/EDM/90.流程模板制作.md",
-    "SanPinPLM/相关操作/EDM/assets/image-20240725215746284.png",
-    "SanPinPLM/相关操作/EDM/50.Excel文档模板制作.md",
-    "SanPinPLM/相关操作/EDM/80.文档分类设置.md",
-    "SanPinPLM/相关操作/EDM/44.岗位设置.md",
-    "SanPinPLM/相关操作/EDM/42.角色设置.md",
-    "SanPinPLM/相关操作/EDM/32.列表中隔行显示颜色.md",
-    "SanPinPLM/相关操作/EDM/30.文档命名唯一性设置.md",
-    "SanPinPLM/相关操作/EDM/22.并发用户管理.md",
-    "未命名.canvas",
     "未命名 1.canvas"
   ]
 }

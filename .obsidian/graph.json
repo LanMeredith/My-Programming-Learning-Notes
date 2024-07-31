@@ -17,6 +17,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.6316046762907802,
+=======
+  "scale": 0.8854989543150564,
+>>>>>>> parent of 1d1fa07 (2024年5月28日)
   "close": true
 }
