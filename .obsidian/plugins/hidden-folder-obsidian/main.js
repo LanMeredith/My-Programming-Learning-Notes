@@ -244,3 +244,5 @@ var HiddenFolder = class extends import_obsidian2.Plugin {
 
 // main.ts
 var main_default = HiddenFolder;
+
+/* nosourcemap */

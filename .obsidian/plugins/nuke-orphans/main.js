@@ -310,3 +310,5 @@ var NukeOrphansPlugin = class extends import_obsidian3.Plugin {
     });
   }
 };
+
+/* nosourcemap */

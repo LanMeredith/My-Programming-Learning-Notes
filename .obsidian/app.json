@@ -1,19 +1,8 @@
 {
-  "strictLineBreaks": true,
   "newFileLocation": "current",
-  "trashOption": "system",
-  "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
-  "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./assets",
-  "defaultViewMode": "source",
   "newLinkFormat": "relative",
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "userIgnoreFilters": null
+  "attachmentFolderPath": "./assets",
+  "strictLineBreaks": true,
+  "useMarkdownLinks": true,
+  "showLineNumber": false
 }

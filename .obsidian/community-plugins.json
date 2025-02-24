@@ -1,9 +1,10 @@
 [
-  "better-export-pdf",
-  "hidden-folder-obsidian",
-  "nuke-orphans",
-  "obsidian-tasks-plugin",
-  "card-board",
   "consistent-attachments-and-links",
-  "update-relative-links"
+  "nuke-orphans",
+  "hidden-folder-obsidian",
+  "update-relative-links",
+  "better-export-pdf",
+  "easy-typing-obsidian",
+  "file-explorer-note-count",
+  "obsidian-git"
 ]

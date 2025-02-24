@@ -1,3 +1,4 @@
 {
-  "accentColor": ""
+  "nativeMenus": true,
+  "cssTheme": "ITS Theme"
 }

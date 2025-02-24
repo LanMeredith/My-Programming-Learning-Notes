@@ -4,3 +4,6 @@
 
 使用`CTRL+SHIFT+K`可以插入代码块
 
+使用`CTRL+SHIFT+[`可以插入有序列表
+
+使用`CTRL+SHIFT+]`可以插入无序列表
