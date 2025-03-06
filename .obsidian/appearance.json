@@ -1,4 +1,5 @@
 {
   "nativeMenus": true,
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "accentColor": ""
 }

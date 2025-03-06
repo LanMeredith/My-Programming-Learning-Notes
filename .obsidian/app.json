@@ -4,5 +4,6 @@
   "attachmentFolderPath": "./assets",
   "strictLineBreaks": true,
   "useMarkdownLinks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "trashOption": "local"
 }
