@@ -11,10 +11,14 @@
             "id": "c42cf36058a8bc53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java路线/10.Java/other/jar包打包成exe程序文件.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "jar包打包成exe程序文件"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Java路线/10.Java/other/jar包打包成exe程序文件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "jar包打包成exe程序文件 的大纲"
             }
           },
           {
@@ -141,7 +146,8 @@
               "title": "21.项目类权限详解 的出链列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,7 +163,7 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "262fdb4633fcf55d",
+  "active": "27878581586f2143",
   "lastOpenFiles": [
     "SanPinPLM/相关操作/0.SETOUT/10.数据库安装.md",
     "SanPinPLM/相关操作/1.EDM/5.文件生命周期.md",
