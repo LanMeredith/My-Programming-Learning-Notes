@@ -146,8 +146,7 @@
               "title": "21.项目类权限详解 的出链列表"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,7 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "27878581586f2143",
+  "active": "07b0a90e46430bb4",
   "lastOpenFiles": [
     "SanPinPLM/相关操作/0.SETOUT/10.数据库安装.md",
     "SanPinPLM/相关操作/1.EDM/5.文件生命周期.md",
