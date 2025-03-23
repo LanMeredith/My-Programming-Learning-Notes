@@ -11,10 +11,14 @@
             "id": "c42cf36058a8bc53",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "PPT/PPT动画排序.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PPT动画排序"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PPT/PPT动画排序.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "PPT动画排序 的大纲"
             }
           },
           {
@@ -159,6 +164,8 @@
   },
   "active": "c42cf36058a8bc53",
   "lastOpenFiles": [
+    "PPT/嵌入字体.md",
+    "Excel/常用函数.md",
     "SanPinPLM/相关操作/0.SETOUT/10.数据库安装.md",
     "SanPinPLM/相关操作/1.EDM/5.文件生命周期.md",
     "SanPinPLM/相关操作/1.EDM/3.文档命名唯一性设置.md",
@@ -190,8 +197,6 @@
     "SanPinPLM/相关操作/2.PDM/59.把零部件放入标准物料库.md",
     "SanPinPLM/相关操作/2.PDM/30.图号、物料编码唯一性设置.md",
     "SanPinPLM/相关操作/4.other/200.Delphi脚本.md",
-    "SanPinPLM/相关操作/0.SETOUT/15.服务端升级.md",
-    "SanPinPLM/相关操作/0.SETOUT/20.浏览器安装、调试.md",
     "SanPinPLM/相关操作/2.PDM/Files/Documents/~$BOM表导出模板.xlsx",
     "SanPinPLM/数据库",
     "SanPinPLM/相关操作/2.PDM/assets/Pasted image 20250225103406.png",
